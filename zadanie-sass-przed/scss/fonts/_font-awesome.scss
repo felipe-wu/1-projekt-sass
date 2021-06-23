@@ -13,6 +13,8 @@
   font-weight: normal;
   font-style: normal;
 }
+  @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
@@ -43,6 +45,7 @@
 .fa-fw {
   width: 1.28571429em;
   text-align: center;
+  font-size: 25px;
 }
 .fa-ul {
   padding-left: 0;
